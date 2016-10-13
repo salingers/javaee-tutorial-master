@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Built-By: 167174
+Build-Jdk: 1.8.0_101
+Specification-Title: JavaEE Tutorial - JMS Service
+Specification-Version: 1.0.0-SNAPSHOT
+Specification-Vendor: JBoss, a division of Red Hat, Inc.
+Implementation-Title: JavaEE Tutorial - JMS Service
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: org.jboss.ee.tutorial
+Implementation-Vendor: JBoss, a division of Red Hat, Inc.
+Created-By: Maven Integration for Eclipse
+Dependencies: org.projectodd.stilts
+Implementation-URL: http://www.jboss.org/javaee-tutorial/javaee-tutori
+ al-jms/javaee-tutorial-jms-service
+
+Name: Build-Information
+Java-Version: 1.8.0_101
+Os-Version: 6.1
+Scm-Url: scm:git:git@github.com:tdiesler/javaee-tutorial.git/javaee-tu
+ torial-jms/javaee-tutorial-jms-service
+Java-Vendor: Oracle Corporation
+Os-Name: Windows 7
+Os-Arch: amd64
+
